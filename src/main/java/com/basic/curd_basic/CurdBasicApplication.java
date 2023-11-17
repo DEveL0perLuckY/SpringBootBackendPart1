@@ -8,7 +8,7 @@ public class CurdBasicApplication {
 
     public static void main(final String[] args) {
         SpringApplication.run(CurdBasicApplication.class, args);
-        System.out.println("server started");
+        System.out.println("server started---luckyew");
     }
 
 }
